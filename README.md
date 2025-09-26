@@ -1,3 +1,6 @@
+# Best-Selling Manga — Web Scrape, Clean, Visualize
+
+
 ## Dataset
 Data scraped from https://en.wikipedia.org/wiki/List_of_best-selling_manga. Data is a combination of the first 2 tables on this page, creating a combined table of best selling manga with at least 50 million sales
 
@@ -19,3 +22,7 @@ Bar chart of the top 20 manga, color coded each bar by genre
 
 ## Insights 
 Shounen manga are overwhelmingly the most popular genre of manga, as seen by both the pie chart and also the top 20 manga. Popular manga like One Piece and Naruto make up the majority of numbers in this genre. In terms of publishers, Shueisha is the clear frontrunner, with more than double the sales of the next highest publisher, Shogakukan. Most sales for these publishers are dominated by Shounen obviously, but some publishers dominate other specific sectors, like how Shogakukan leads the Seinen and Children demographics in sales.
+
+## Extras 
+This project uses polite scraping. 
+This project is licensed under the MIT License – see the [LICENSE](LICENCE) file for details.
